@@ -14,6 +14,8 @@ natural language processing,자연어 처리 공부
 </br>임베딩의 사전적 의미 
 <h1>04_한국어 텍스트 임베딩</h1>
 </br>한국어 텍스트 처리에 적합한 임베딩
+<h1>05_05_STT</h1>
+<h1>06_TTS</h1>
 </br>BERT (Bidirectional Encoder Representations from Transformers)
 <h1>05_RNN으로 네이버 영화 리뷰 감성 분석</h1>
 </br>네이버 영화 리뷰 감성 분석,데이터 셋 
